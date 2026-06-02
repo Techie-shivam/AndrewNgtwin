@@ -43,7 +43,7 @@ HuggingFace Embeddings
 Google Gemini API
 Groq API (LLaMA 3)
 SpeechRecognition (STT)
-Text-to-Speech engine (pyttsx3 or ElevenLabs)
+Text-to-Speech engine (pyttsx3)
 ipywidgets (UI)
 JSON (for memory storage)
 
